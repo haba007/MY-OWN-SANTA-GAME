@@ -112,13 +112,13 @@ cookiesimg=loadImage("cookies.png")
 
 gameoverimg=loadImage("Game over.png")
 
-resetimg=loadImage("reset.png")
+resetimg=loadImage("Reset.png")
 
 snowimg=loadImage("snow.jpeg")
 
 startimg=loadImage("Start.png")
 
-fbackImg=loadImage("FrontImage.jpeg")
+fbackImg=loadImage("frontImage.jpeg")
 fSantaImg=loadImage("santa-2014-removebg-preview (2).png")
 
 hedImg=loadImage("output-onlinetexttools__3_-removebg-preview.png")
